@@ -1,0 +1,16 @@
+[package]
+name = "tiny-gradient"
+version = "0.1.0"
+edition = "2021"
+authors = ["Maxim Zhiburt <zhiburt@gmail.com>"]
+description = "Make your string colored in gradient"
+repository = "https://github.com/zhiburt/tiny-gradient"
+homepage = "https://github.com/zhiburt/tiny-gradient"
+documentation = "https://docs.rs/tiny-gradient"
+license = "MIT"
+keywords = ["gradient", "color", "ansi", "terminal", "cli"]
+categories = ["text-processing", "command-line-interface", "no-std"]
+
+[dependencies]
+# necessary for no_std, because of `powf`.
+libm = "0.2.2"
