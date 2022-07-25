@@ -1,6 +1,15 @@
 tiny-gradient
 =============
 
+[<img alt="github" src="https://img.shields.io/badge/github-zhiburt/tiny--gradient-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/zhiburt/tiny-gradient/)
+[<img alt="crates.io" src="https://img.shields.io/crates/v/tiny-gradient.svg?style=for-the-badge&color=fc8d62&logo=rust" height="20">](https://crates.io/crates/tiny-gradient)
+[<img alt="docs.rs" src="https://img.shields.io/badge/docs.rs-tiny--gradient-66c2a5?style=for-the-badge&labelColor=555555&logo=docs.rs" height="20">](https://docs.rs/tiny-gradient)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/20165848/180790191-63252827-64ef-4d09-8a01-384f78bf8bb1.png">
+  <img alt="Preview" src="https://user-images.githubusercontent.com/20165848/180790008-b1100184-ce27-42c9-8c60-8628e5833794.png">
+</picture>
+
 ## Usage
 
 ```rust
